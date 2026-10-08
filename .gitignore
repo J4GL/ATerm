@@ -60,3 +60,12 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+# ATerm
+build/
+.swiftpm/
+*.xcodeproj
+.DS_Store
+.env
+
+dist/
